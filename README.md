@@ -85,10 +85,4 @@ This dashboard was created in **Looker Studio** and includes the following key v
 
 
 
-## 🙌 Credits
-Dataset pre-cleaned for dashboard purposes. Ideal for marketing analysts and data visualization learning projects.
 
----
-
-## 📬 Contact
-For questions, connect via [MAIL](dishagarg1031@gmail.com) or raise an issue on this repo.
