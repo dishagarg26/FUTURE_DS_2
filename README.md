@@ -1,5 +1,5 @@
 
-# 🛍️ Marketing Campaign Dataset Dashboard
+# 🛍️ Marketing Campaign Analytics Dashboard
 
 This project presents an interactive **Looker Studio Dashboard** built using a cleaned marketing campaign dataset. The dashboard helps analyze customer demographics, spending behavior, campaign effectiveness, and purchasing channels.
 
